@@ -1,2 +1,1 @@
-# XSS
-#1 XSS(BBH)
+Example of an XSS attack ❗
